@@ -1,4 +1,4 @@
-Federalist Demo
+Classify the Federalist Papers
 ===
 
 Classify the disputed federalist papers to reproduce the results of the
